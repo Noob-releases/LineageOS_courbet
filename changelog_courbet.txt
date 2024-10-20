@@ -1,8 +1,3 @@
-===== 21 July, 2024 =====
-
-- Application of recent changes in LineageOS 21.0
-- Some other very important changes, but I've forgotten about them
-
 ===== 19 February, 2024 =====
 
 - Testing fix for color calibration that caused lags in some applications.
